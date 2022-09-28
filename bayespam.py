@@ -283,3 +283,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+#python bayespam.py "C:\Users\abahe\OneDrive\Documents\spam-filter\spam-filter\train" "C:\Users\abahe\OneDrive\Documents\spam-filter\spam-filter\test"
